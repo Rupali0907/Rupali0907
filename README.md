@@ -1,3 +1,5 @@
+https://gifs.alphacoders.com/gifs/view/55911
+
 <h1 align="center">Hi 👋, I'm Rupali Srivastava</h1>
 <h3 align="center">Data Engineer | MCA Student | SQL • Python • AWS • Big Data</h3>
 
