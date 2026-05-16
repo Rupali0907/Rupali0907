@@ -41,14 +41,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=default" alt="rupali github stats" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 I'm open to **data engineering internships**, **entry‑level DE roles**, and **collaborative projects**.  
