@@ -1,25 +1,59 @@
 <h1 align="center">Hi 👋, I'm Rupali Srivastava</h1>
-<h3 align="center">Mca Student | Learning Java, SQL and Cloud Computing with AWS</h3>
+<h3 align="center">Data Engineer | MCA Student | SQL • Python • AWS • Big Data</h3>
 
-- 🔭 I’m currently working on **DSA Practice in Java & Python + Mini Web Projects (HTML,CSS,JS)**
+---
 
-- 🌱 I’m currently learning **Data Structures & Algorithms | HTML| CSS | SQL | AWS Cloud | Python**
+### 👩‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Java or Web Development + SQL Projects**
+- 🔭 I’m currently building **ETL pipelines**, working with **SQL & Python**, and learning **Cloud Data Engineering (AWS)**  
+- 🌱 I’m currently deepening my skills in **Data Warehousing**, **Apache Spark** and **AWS Glue & Redshift**  
+- 👯 I’m looking to collaborate on **Data Engineering projects**, **SQL optimization**, and **end‑to‑end data pipelines**  
+- 🤝 I’m looking for help with **Big Data tools (Hadoop/Spark)**, **real‑time streaming**, and **cloud data architecture**  
+- 💬 Ask me about **SQL (joins, window functions, query tuning)**, **Python for data**, **DSA basics**, or **AWS services for data**  
+- 📫 How to reach me: **rupalisrivastava090703@gmail.com**  
+- ⚡ Fun fact: I practice coding logic daily — currently transforming those skills into clean, scalable data pipelines!
 
-- 🤝 I’m looking for help with **Backend development, Database Design & Cloud(AWS)**
+---
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](My GitHub Repositories)
+### 🛠️ Data Engineering Tech Stack
 
-- 💬 Ask me about **Java|SQL|DSA|DBMS**
-
-- 📫 How to reach me **rupalisrivastava090703@gmail.com**
-
-- ⚡ Fun fact **I solve coding problems daily to improve my logic.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache spark" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 📌 Currently Focusing On
+
+- **SQL mastery** (complex joins, aggregations, indexing, query optimization)  
+- **Python for data** (pandas, numpy, building ETL scripts)  
+- **AWS Data Services** (S3, Glue, Athena, Redshift, Lambda)  
+- **Data pipeline orchestration** (Apache Airflow basics)  
+- **Big Data fundamentals** (Spark, HDFS, Parquet, Avro)
+
+---
+
+### 📈 GitHub Stats
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en&theme=default" alt="rupali github stats" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm open to **data engineering internships**, **entry‑level DE roles**, and **collaborative projects**.  
+Reach out if you're working on anything related to data pipelines, SQL, or cloud data platforms.
+
+📧 **rupalisrivastava090703@gmail.com**
+
+---
